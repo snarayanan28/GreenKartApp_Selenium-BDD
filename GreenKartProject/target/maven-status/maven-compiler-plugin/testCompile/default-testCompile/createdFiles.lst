@@ -1,0 +1,7 @@
+stepDefinitions\MyStepDefinitions.class
+stepDefinitions\Hooks.class
+stepDefinitions\stepDefinition.class
+pageObjects\HomePage.class
+pageObjects\CheckOutPage.class
+cucumberOptions\TestRunner.class
+cucumberAutomation\Base.class
